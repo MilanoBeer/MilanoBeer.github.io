@@ -20,7 +20,7 @@
 lang:                  ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 proj-practice
+title:                 HyeHye
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               공부하는 Blog
+tagline:               Be
 
 # A list of keywords for your blog
 keywords:              [study]
@@ -42,17 +42,17 @@ logo:                  /assets/img/author/profile.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:              eunji kim
-  email:             qwert101311@gmail.com
+  name:              hyeyeon shin
+  email:             tgd5753@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Hello
-    url:               /hello/
-  - title:             Study
-    url:               /study/
+  - title:             Algorithm
+    url:               /algorithm/
+  - title:             Vuejs
+    url:               /vuejs/
   - title:             Etc
     url:               /etc/
 
