@@ -10,7 +10,7 @@ slug: algorithm
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  notion에서 작성된 글입니다. 알고리즘 공부 관련 글을 모았습니다.
+  알고리즘 관련 문제
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

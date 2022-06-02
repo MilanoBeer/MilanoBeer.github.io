@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Mysql
+title: Api
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: mysql
+slug: api
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  notion에서 작성된 글입니다. mysql에 대한 게시글을 모았습니다.
+  Vuejs에 대해
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

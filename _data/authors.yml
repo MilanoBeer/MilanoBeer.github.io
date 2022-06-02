@@ -2,31 +2,31 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              eunji kim
-  email:             qwert101311@gmail.com
+  name:              hyeyeon shin
+  email:             tgd5753@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    공부하며 작성하는 게시글이기에 부족함이 있을 수 있습니다.     
-    발견 즉시 수정하겠습니다.     
-    [TIL](https://kim-eun-ji.github.io/TIL/){:target="_blank"}
+  about:
+    공부하고 배운 것을 기록하는 용도입니다. 
+    부족한 부분이 있을 수 있습니다.                 |
+    # [TIL](https://kim-eun-ji.github.io/TIL/){:target="_blank"}
 
   # This photo will be used in the about section
   picture:
     path:            /assets/img/author/profile.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/author/profile.png
-      2x:            /assets/img/author/profile.png
+      1x:            /assets/img/author/profile.jpeg
+      2x:            /assets/img/author/profile.jpeg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          kim-eun-ji
-    email:           qwert101311@gmail.com
+    github:          MilanoBeer
+    email:           tgd5753@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
