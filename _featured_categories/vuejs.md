@@ -10,7 +10,7 @@ slug: api
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Vuejs에 대해
+  About Vuejs
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

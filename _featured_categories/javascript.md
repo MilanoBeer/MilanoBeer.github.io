@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Api
+title: JavaScript
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: api
+slug: js
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  notion에서 작성된 글입니다. api에 대한 게시글을 모았습니다.
+  About JS
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
