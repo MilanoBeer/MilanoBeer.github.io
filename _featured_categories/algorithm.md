@@ -10,7 +10,7 @@ slug: algorithm
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  알고리즘 관련 문제
+  알고리즘 문제 풀이 (Java)
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
