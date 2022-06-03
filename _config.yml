@@ -53,8 +53,8 @@ menu:
     url:               /algorithm/
   - title:             Vuejs
     url:               /vuejs/
-  - title:             Js
-    url:               /js/
+  - title:             Javascript
+    url:               /javascript/
   - title:             React
     url:               /react/
   - title:             TypeScript
