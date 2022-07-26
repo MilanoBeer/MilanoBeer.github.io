@@ -4,7 +4,7 @@ title: React_Study_01
 categories: [react]
 tags: [react]
 description: >
-  [Study] React 면접준비
+  [Study] React 스터디 & 면접준비
 invert_sidebar: false
 ---
 
